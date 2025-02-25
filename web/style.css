@@ -1,6 +1,19 @@
 .heading{
     color:black
 }
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    width: 100vw;
+    height: 13rem;
+    background-color: rgb(53, 228, 228);
+    display: flex;
+  }
 
+  .navbar{
+    gap: 50px;
+  }
 
 
